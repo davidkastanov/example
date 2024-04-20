@@ -1,0 +1,51 @@
+body{
+	background-color: violet;
+}
+p{
+	background-color: purple;
+	color: orangered;
+	font-size: 50px;
+	
+}
+.p2{
+	display: inline;
+}
+
+.p1 span{
+	font-style: italic;
+	background-color: fuchsia;
+	border: 5px dashed aqua;
+	display: inline-block;
+}
+
+#first{
+	width: 400px;
+	height: 400px;
+	background-color: olive;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	font-size: 48px;
+	border: 20px ;
+	border-style: dashed dotted double solid;
+	border-block: red yellow green blue;
+}
+#second{
+	width: 500px;
+	height: 900px;
+	background-color: burlywood;
+	border: 50px;
+	border-style: double;
+	border-color: fuchsia ivory ghostwhite cornflowerblue;	
+}
+#third, #forth{
+	width: 700px;
+	height: 200px;
+	background-color: fuchsia;
+	margin: 100px;
+	border: 35px;
+	border-style: solid;
+	border-color: cornflowerblue rebeccapurple darkolivegreen cadetblue;
+
+
+}
